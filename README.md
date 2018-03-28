@@ -3,7 +3,7 @@
 [![](https://img.shields.io/gem/dt/geo_pattern.svg?style=flat)](http://rubygems.org/gems/geo_pattern)
 
 # GeoPattern
-
+GO HOME
 Generate beautiful tiling SVG patterns from a string. The string is converted
 into a SHA and a color and pattern are determined based on the values in the
 hash. The color is determined by shifting the hue and saturation from a default
